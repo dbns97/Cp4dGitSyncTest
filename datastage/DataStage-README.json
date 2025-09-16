@@ -1,0 +1,43 @@
+{
+  "project" : "DrewGitSync",
+  "projectId" : "4f03248a-5188-42f7-9dc3-1343c767621e",
+  "created_by" : "admin",
+  "created_at" : null,
+  "environment" : "cp4d",
+  "services_info" : [ {
+    "name" : "ds-canvas",
+    "version" : "520.0.16"
+  }, {
+    "name" : "ds-cas-lite",
+    "version" : "520.0.3"
+  }, {
+    "name" : "ds-codegen",
+    "version" : "520.0.16"
+  }, {
+    "name" : "ds-flow-runtime",
+    "version" : "520.0.3"
+  }, {
+    "name" : "ds-flows",
+    "version" : "520.0.16"
+  }, {
+    "name" : "ds-migration",
+    "version" : "520.0.3"
+  }, {
+    "name" : "ds-px-runtime",
+    "version" : "520.0.17"
+  }, {
+    "name" : "DSAssets",
+    "version" : "520.0.6"
+  }, {
+    "name" : "qs-ruleset",
+    "version" : "520.0.3"
+  } ],
+  "assets" : [ {
+    "name" : "4f03248a-5188-42f7-9dc3-1343c767621e-DataStage_settings",
+    "type" : "data_intg_project_settings"
+  }, {
+    "name" : "TestAsset1",
+    "type" : "data_intg_flow"
+  } ],
+  "flow_job_mapping" : [ ]
+}
