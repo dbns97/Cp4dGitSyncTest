@@ -1,0 +1,54 @@
+{
+  "project" : {
+    "jobNameSuffix" : ".DataStage job",
+    "runEnvironmentId" : "089607a7-544b-462c-8470-e256c101fdb5",
+    "runPriorityQueue" : "Medium",
+    "runRemoteEngineEnforcement" : false,
+    "testDataProperties" : {
+      "testCaseJobNameSuffix" : ".DataStageTestCase Job",
+      "testDataConnectionType" : ""
+    },
+    "saveFrequency" : "save_changes_automatically",
+    "formatTimeString" : "%hh:%nn:%ss",
+    "flowLimits" : {
+      "warnLimit" : 100
+    },
+    "testDataConnectionId" : "",
+    "nlsCollate" : "OFF",
+    "disableParamsRefreshCache" : false,
+    "runMessageHandlerId" : "",
+    "formatDecimalSeparator" : ".",
+    "testDataBasePath" : "",
+    "sequenceNameSuffix" : ".DataStage sequence",
+    "defineParameters" : false,
+    "optimizedSequenceNameSuffix" : ".DataStage sequence job",
+    "runArtifactRetention" : {
+      "enabled" : false
+    },
+    "gitIntegration" : {
+      "enableGit" : true,
+      "gitProvider" : "git",
+      "gitFolder" : "datastage",
+      "gitToken" : "{dsnextenc}VN+rDRJgTMfSFBrjJr0zjr36IAFzEu58/hfSYh8TPeTQyaTAV7/abt8d8x/1kVmO",
+      "gitOwner" : "",
+      "gitURL" : "https://github.com/dbns97/Cp4dGitSyncTest.git",
+      "gitBranch" : "main"
+    },
+    "thresholdLimits" : { },
+    "runEnvironmentIds" : [ "089607a7-544b-462c-8470-e256c101fdb5" ],
+    "formatDateString" : "%yyyy-%mm-%dd",
+    "metricsRepository" : {
+      "enableMetrics" : false,
+      "metricsRetention" : {
+        "enabled" : false
+      },
+      "connection" : {
+        "datasource_type" : "e1c23729-99d8-4407-b3df-336e33ffdc82"
+      },
+      "enableAdvancedFind" : false
+    },
+    "nlsMap" : "UTF-8",
+    "formatTimestampString" : "%yyyy-%mm-%dd %hh:%nn:%ss",
+    "runEnvironmentNames" : [ "default_datastage_px" ]
+  }
+}
